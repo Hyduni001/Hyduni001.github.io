@@ -168,7 +168,7 @@
   <entry>
     <title>论文写作的十大要点与画图的七个注意事项</title>
     <url>/2022/04/12/write_pic/</url>
-    <content><![CDATA[<h2 id="论文初稿如何检查？："><a href="#论文初稿如何检查？：" class="headerlink" title="***论文初稿如何检查？：##"></a>***论文初稿如何检查？：##</h2><p>先逐段的放到<strong>grammarly</strong>网站里检查自动检查基本语法问题，然后再按如下要点逐句检查。</p>
+    <content><![CDATA[<h2 id="论文初稿如何检查-："><a href="#论文初稿如何检查-：" class="headerlink" title="***论文初稿如何检查?："></a>***论文初稿如何检查?：</h2><p>先逐段的放到<strong>grammarly</strong>网站里检查自动检查基本语法问题，然后再按如下要点逐句检查。</p>
 <a id="more"></a>
 
 <p>1.检查<strong>冠词</strong>，有没加 the /a /an /s，比如network不能单独用，要用the network，或者networks，或者networking.</p>
@@ -181,8 +181,8 @@
 <p>8.检查<strong>常用搭配</strong>，比如 arouse the challenge,  address the challenge, tackle the issue, solve the problem.</p>
 <p>9.检查<strong>特殊符号和单词拼写</strong>，比如 i.e.,  e.g.,  不要遗漏 “.” ，比如network，而不是netwrok, adopt, 而不是adpot.</p>
 <p>10.检查<strong>参考文献</strong>，直接在IEEE数据库下载的ref一般格式都有问题，需要统一格式，比如论文标题是否大小写一致，一般期刊全大写，会议首字母大写、其他小写、且标题中的专有名词大写，比如S. Wang, B. Wu, C. Zhang, Y. Huang, T. Huang, and Y. Liu, “Large-scale deterministic IP networks on CENI,” in IEEE INFOCOM WKSHPS, 2021, pp. 1–6.</p>
-<h3 id="最重要的："><a href="#最重要的：" class="headerlink" title="最重要的：###"></a>最重要的：###</h3><p><strong>不能一段话谷歌翻译完事，一定要一句一句的检查，想想一句话主谓宾对不对，想想应该接逗号还是句号，想想相邻的句子是什么关系，相邻的段落怎么衔接。</strong></p>
-<h2 id="论文画图有什么需要注意的地方？"><a href="#论文画图有什么需要注意的地方？" class="headerlink" title="***论文画图有什么需要注意的地方？##"></a>***论文画图有什么需要注意的地方？##</h2><p>1.字体大小要有区分度，关键信息应该大，非关键信息哪些应该小。</p>
+<h3 id="最重要的："><a href="#最重要的：" class="headerlink" title="最重要的："></a>最重要的：</h3><p><strong>不能一段话谷歌翻译完事，一定要一句一句的检查，想想一句话主谓宾对不对，想想应该接逗号还是句号，想想相邻的句子是什么关系，相邻的段落怎么衔接。</strong></p>
+<h2 id="论文画图有什么需要注意的地方？："><a href="#论文画图有什么需要注意的地方？：" class="headerlink" title="***论文画图有什么需要注意的地方？："></a>***论文画图有什么需要注意的地方？：</h2><p>1.字体大小要有区分度，关键信息应该大，非关键信息哪些应该小。</p>
 <p>2.区域模块要有区分度，间距要有大有小，要用间距表达出层次感。</p>
 <p>3.箭头有粗有细，有单向有双向，要用箭头和数字表达出看图的逻辑和工作流程。</p>
 <p>4.箭头要有文字说明或者单独的图例。</p>
