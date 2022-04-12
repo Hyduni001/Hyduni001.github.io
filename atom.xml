@@ -6,7 +6,7 @@
   <link href="https://huangyudong0525.github.io/atom.xml" rel="self"/>
   
   <link href="https://huangyudong0525.github.io/"/>
-  <updated>2022-02-14T12:44:47.916Z</updated>
+  <updated>2022-04-12T04:49:55.110Z</updated>
   <id>https://huangyudong0525.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>论文写作的十大要点与画图的七个注意事项</title>
+    <link href="https://huangyudong0525.github.io/2022/04/12/write_pic/"/>
+    <id>https://huangyudong0525.github.io/2022/04/12/write_pic/</id>
+    <published>2022-04-11T16:00:00.000Z</published>
+    <updated>2022-04-12T04:49:55.110Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="论文初稿如何检查？："><a href="#论文初稿如何检查？：" class="headerlink" title="***论文初稿如何检查？：##"></a>***论文初稿如何检查？：##</h2><p>先逐段的放到<strong>grammarly</strong>网站里检查自动检查基本语法问题，然后再按如下要点逐句检查。</p><a id="more"></a><p>1.检查<strong>冠词</strong>，有没加 the /a /an /s，比如network不能单独用，要用the network，或者networks，或者networking.</p><p>2.检查<strong>单复数</strong>，单数用is，复数用are.</p><p>3.检查<strong>介词</strong>，尽量不用with，因为with在英语中表示得太泛，逻辑关不清楚.</p><p>4.检查<strong>连词</strong>，尽量用 while /through/ thus/ therefore/ however /as， 少用because / but，且在有确切转折的地方才用连词，尽量少用，多采用简单句和自然衔接，比如: He proposes the CSQF.  CSQF is a scheduling mechanism.</p><p>5.检查<strong>专有名词和缩写</strong>，比如 the Internet/ the Ethernet，要大写，所有缩写要一致，比如有了time-sensitive networking (TSN), 后面就要用 deterministic networking (DetNet)， 不能DetNet (deterministic networking).</p><p>6.检查<strong>主谓宾</strong>，科技文应该用简洁的表达，需要检查一句话的主谓宾是否完整，然后再考虑接从句，在用which/ that/ where的时候，要检查其对应的主语是否正确.</p><p>7.检查<strong>动词</strong>，考虑采用更高级的词汇，比如不用use，用utilize/ adopt，不用show，用present/ outline/ exhibit/ analyse/ describe/ detail.</p><p>8.检查<strong>常用搭配</strong>，比如 arouse the challenge,  address the challenge, tackle the issue, solve the problem.</p><p>9.检查<strong>特殊符号和单词拼写</strong>，比如 i.e.,  e.g.,  不要遗漏 “.” ，比如network，而不是netwrok, adopt, 而不是adpot.</p><p>10.检查<strong>参考文献</strong>，直接在IEEE数据库下载的ref一般格式都有问题，需要统一格式，比如论文标题是否大小写一致，一般期刊全大写，会议首字母大写、其他小写、且标题中的专有名词大写，比如S. Wang, B. Wu, C. Zhang, Y. Huang, T. Huang, and Y. Liu, “Large-scale deterministic IP networks on CENI,” in IEEE INFOCOM WKSHPS, 2021, pp. 1–6.</p><h3 id="最重要的："><a href="#最重要的：" class="headerlink" title="最重要的：###"></a>最重要的：###</h3><p><strong>不能一段话谷歌翻译完事，一定要一句一句的检查，想想一句话主谓宾对不对，想想应该接逗号还是句号，想想相邻的句子是什么关系，相邻的段落怎么衔接。</strong></p><h2 id="论文画图有什么需要注意的地方？"><a href="#论文画图有什么需要注意的地方？" class="headerlink" title="***论文画图有什么需要注意的地方？##"></a>***论文画图有什么需要注意的地方？##</h2><p>1.字体大小要有区分度，关键信息应该大，非关键信息哪些应该小。</p><p>2.区域模块要有区分度，间距要有大有小，要用间距表达出层次感。</p><p>3.箭头有粗有细，有单向有双向，要用箭头和数字表达出看图的逻辑和工作流程。</p><p>4.箭头要有文字说明或者单独的图例。</p><p>5.颜色要有区分度，相同或相近的东西用相近的颜色，配色用科研专用配色。</p><p>6.适当的增加图标和实物，比如交换机、路由器、防火墙、云数据中心。</p><p>7.排版要好，遵循对齐、统一、对比、突出、逻辑的原则。</p><h2 id="作图工具"><a href="#作图工具" class="headerlink" title="***作图工具"></a>***作图工具</h2><p><strong>1.图标下载网站</strong><br>阿里巴巴图标素材库<br>FLATICON</p><p><strong>2.优质图片免费下载网站</strong><br>花瓣网<br>Pexels<br>Piqsels<br>Unsplash</p><p><strong>3.ppt自带素材库</strong><br>islide（一款ppt插件，超级好用）</p><p><strong>4.直接下载网页里任意的图片</strong><br>图片助手（一个谷歌浏览器插件）</p><p><strong>5.配色网站</strong><br>Adobe Color CC<br>colorbrewer</p><p>2022年4月12日</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;论文初稿如何检查？：&quot;&gt;&lt;a href=&quot;#论文初稿如何检查？：&quot; class=&quot;headerlink&quot; title=&quot;***论文初稿如何检查？：##&quot;&gt;&lt;/a&gt;***论文初稿如何检查？：##&lt;/h2&gt;&lt;p&gt;先逐段的放到&lt;strong&gt;grammarly&lt;/strong&gt;网站里检查自动检查基本语法问题，然后再按如下要点逐句检查。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="学习" scheme="https://huangyudong0525.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="论文写作" scheme="https://huangyudong0525.github.io/tags/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>一套能长期坚持的行之有效的取悦自己的方法</title>
